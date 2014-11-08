@@ -1,4 +1,4 @@
-userAdmins = ['kkassir', 'tgaribaldi@popsugar.com', 'laurenhendrickson'];
+userAdmins = ['kkassir', 'tgaribaldi@popsugar.com', 'laurenhendrickson', 'aschrader2'];
 
 Handlebars.registerHelper('numFailers',function(ticket) {
 	var length = ticket.failers ? ticket.failers.length : 0;
